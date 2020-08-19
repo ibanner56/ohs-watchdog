@@ -1,8 +1,8 @@
 # OHS / SWH Adoption Watchdog
 Quick and dirty script to scrape the OHS and SWH websites and see if there are any new dogs listed for adoption.
 
-`python3 pip install -r requirements.txt
-python3 petfinder.py`
+`python3 pip install -r requirements.txt`  
+`python3 petfinder.py`
 
 For best results, stick it in a cronjob.
 
