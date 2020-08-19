@@ -1,0 +1,14 @@
+{
+    "floof_alert": {
+        "from": "",
+        "password": "",
+        "subject": "New Floof Alert",
+        "to": ""
+    },
+    "error_msg": {
+        "from": "",
+        "password": "",
+        "subject": "Error Finding Dog Friends",
+        "to": ""
+    }
+}
